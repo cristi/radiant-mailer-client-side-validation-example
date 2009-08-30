@@ -1,4 +1,4 @@
-This is a repository created for the [Radiant Mailer client-side validation workking example][bp].
+This is a repository created for the [Radiant Mailer client-side validation working example][bp].
 
 The credentials are:
 
